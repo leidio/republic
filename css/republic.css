@@ -86,7 +86,7 @@ b {
 /* TOP SECTION */
 
 .capitol {
-  background-image: url(/img/capitol.svg);
+  background-image: url(https://leidio.github.io/republic/img/capitol.svg);
   height:80%;
   width:100%;
   background-repeat:no-repeat;
@@ -218,7 +218,7 @@ b {
 }
 
 .map {
-  background-image: url(/img/map2.svg);
+  background-image: url(https://leidio.github.io/republic/img/map2.svg);
   background-color:#EFEFEF;
   height:100%;
   width:100%;
